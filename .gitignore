@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Local generated images (don't upload these!)
+generated_images/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Environment variables (keeps your HF_TOKEN safe)
+.env
